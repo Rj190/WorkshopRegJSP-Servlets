@@ -23,17 +23,15 @@ It should maintain the following information:
 
        Download Link: https://dev.mysql.com/downloads/connector/j/
        
-       
-       ![image](https://user-images.githubusercontent.com/46531471/152042794-5e9a1417-a585-4ece-b3cd-a43aa06a07ee.png)
+  ![image](https://user-images.githubusercontent.com/46531471/152042794-5e9a1417-a585-4ece-b3cd-a43aa06a07ee.png)
 
-
-       ![image](https://user-images.githubusercontent.com/46531471/152042821-d5b1a0fa-51e3-401c-91a7-51a93cd4682e.png)
+  ![image](https://user-images.githubusercontent.com/46531471/152042821-d5b1a0fa-51e3-401c-91a7-51a93cd4682e.png)
        
        
-       ![image](https://user-images.githubusercontent.com/46531471/152042863-8eb7a955-d4fd-4658-8225-cc8d3f4dcc97.png)
+  ![image](https://user-images.githubusercontent.com/46531471/152042863-8eb7a955-d4fd-4658-8225-cc8d3f4dcc97.png)
 
         
-        ![image](https://user-images.githubusercontent.com/46531471/152042900-888c5190-d5fd-4727-ba6d-72a100a2c6d8.png)
+  ![image](https://user-images.githubusercontent.com/46531471/152042900-888c5190-d5fd-4727-ba6d-72a100a2c6d8.png)
 
 ![image](https://user-images.githubusercontent.com/46531471/152042922-c79e1ba2-ed44-4436-9683-15d25d16836d.png)
 
